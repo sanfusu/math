@@ -1,46 +1,90 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5">
   <diagram name="递归定理" id="qlalfo4uV4p5pu9lVtdo">
-    <mxGraphModel dx="2901" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2901" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-1" value="$$\phi(0)=c$$" style="rounded=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=8;strokeColor=default;verticalAlign=middle;spacingRight=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-20" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fillStyle=hachure;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="300" width="140" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-1" value="$$\phi(0)=c$$" style="rounded=1;whiteSpace=wrap;shadow=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=8;strokeColor=default;verticalAlign=middle;spacingRight=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-753" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-2" value="$$\forall n \in \mathbb{N}_0, \phi(s(n)) = f(\phi(n))$$" style="rounded=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=8;strokeColor=default;verticalAlign=middle;spacingRight=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-2" value="$$\forall n \in \mathbb{N}_0, \phi(s(n)) = f(\phi(n))$$" style="rounded=1;whiteSpace=wrap;shadow=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=8;strokeColor=default;verticalAlign=middle;spacingRight=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-570" y="190" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=1;html=1;spacingLeft=0;" parent="1" source="KVMrXZUs3Ibjqwfh2aN_-3" target="KVMrXZUs3Ibjqwfh2aN_-1" edge="1">
+        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=none;endArrow=classic;curved=1;html=1;spacingLeft=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="KVMrXZUs3Ibjqwfh2aN_-3" target="KVMrXZUs3Ibjqwfh2aN_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;curved=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=0;" parent="1" source="KVMrXZUs3Ibjqwfh2aN_-3" target="KVMrXZUs3Ibjqwfh2aN_-2" edge="1">
+        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="KVMrXZUs3Ibjqwfh2aN_-3" target="KVMrXZUs3Ibjqwfh2aN_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-3" value="&lt;div&gt;如果 `X` 是一个集合， `f:X \to X` 是一个函数，且 `c \in X`,&amp;nbsp;&lt;/div&gt;&lt;div&gt;那么存在一个唯一的函数 `\phi: \mathbb{N}_0 \to X` 满足如下条件：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=8;verticalAlign=middle;spacingRight=8;" parent="1" vertex="1">
+        <mxCell id="KVMrXZUs3Ibjqwfh2aN_-3" value="&lt;div&gt;如果 `X` 是一个集合， `f:X \to X` 是一个函数，且 `c \in X`,&amp;nbsp;&lt;/div&gt;&lt;div&gt;那么存在一个唯一的函数 `\phi: \mathbb{N}_0 \to X` 满足如下条件：&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;shadow=1;align=center;labelBackgroundColor=none;html=1;spacingLeft=8;verticalAlign=middle;spacingRight=8;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-720" y="40" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="mCxMqtN-5xMqUvrD2kmg-1" target="mCxMqtN-5xMqUvrD2kmg-2">
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;shadow=1;strokeColor=default;align=center;verticalAlign=middle;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;curved=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="mCxMqtN-5xMqUvrD2kmg-1" target="mCxMqtN-5xMqUvrD2kmg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-1" value="佩亚诺公理" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-1" value="佩亚诺公理" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-720" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=1;sketch=1;curveFitting=1;jiggle=2;flowAnimation=0;shadow=1;" edge="1" parent="1" source="mCxMqtN-5xMqUvrD2kmg-2" target="mCxMqtN-5xMqUvrD2kmg-4">
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=1;flowAnimation=0;shadow=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="mCxMqtN-5xMqUvrD2kmg-2" target="mCxMqtN-5xMqUvrD2kmg-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;sketch=1;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mCxMqtN-5xMqUvrD2kmg-2" target="mCxMqtN-5xMqUvrD2kmg-11">
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="mCxMqtN-5xMqUvrD2kmg-2" target="mCxMqtN-5xMqUvrD2kmg-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-320" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-2" value="&lt;div&gt;假设存在一个集合 `\mathbb{N}_0`，&lt;/div&gt;&lt;div&gt;以及函数 `s:\mathbb{N}_0\to \mathbb{N}_0`，&lt;/div&gt;&lt;div&gt;使得&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="mCxMqtN-5xMqUvrD2kmg-2" target="KM5Yp9eGz6FPX70LV8R_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-2" value="&lt;div&gt;假设存在一个集合 `\mathbb{N}_0`，&lt;/div&gt;&lt;div&gt;以及函数 `s:\mathbb{N}_0\to \mathbb{N}_0`，&lt;/div&gt;&lt;div&gt;使得&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-520" y="400" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-4" value="`s` 不是满射" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-4" value="`s` 不是满射" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mCxMqtN-5xMqUvrD2kmg-11" value="`s` 是单射" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="mCxMqtN-5xMqUvrD2kmg-11" value="`s` 是单射" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-8" value="`S=\mathbb{N}_0`" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-9" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-280" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-1" value="&lt;div&gt;如果 `S\subseteq \mathbb{N}_0 \wedge 0 \in S`&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KM5Yp9eGz6FPX70LV8R_-9">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-6" value="且 `forall n \in \mathbb{N}_0` 都有 `n \in S \Rightarrow s(n) \in S`" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="KM5Yp9eGz6FPX70LV8R_-9">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="KM5Yp9eGz6FPX70LV8R_-6" target="KM5Yp9eGz6FPX70LV8R_-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="540" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="KM5Yp9eGz6FPX70LV8R_-1" target="KM5Yp9eGz6FPX70LV8R_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-15" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="KM5Yp9eGz6FPX70LV8R_-13" target="KM5Yp9eGz6FPX70LV8R_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-13" value="自然数存在公理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shadow=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="KM5Yp9eGz6FPX70LV8R_-14" target="mCxMqtN-5xMqUvrD2kmg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-14" value="存在一个集合 `\mathbb{N}_0`，以及函数 `s:\mathbb{N}_0 \to \mathbb{N}_0`，满足佩亚诺公理" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;fontFamily= Long Cang ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BLong%2BCang%2B;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="555" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-24" value="两个前提" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KM5Yp9eGz6FPX70LV8R_-25" value="三个条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily= Long Cang ;fontSize=12;fontColor=default;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%2BLong%2BCang%2B;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="270" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
